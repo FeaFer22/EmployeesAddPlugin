@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FeaFer\\source\\repos\\PhonePluginsApplication\\EmployeesAddPlugin\\EmployeesAddPlugin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FeaFer\\source\\repos\\PhonePluginsApplication\\EmployeesAddPlugin\\EmployeesAddPlugin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FeaFer\\source\\repos\\PhonePluginsApplication\\EmployeesAddPlugin\\EmployeesAddPlugin.csproj",
+        "projectName": "EmployeesAdd.Plugin",
+        "projectPath": "C:\\Users\\FeaFer\\source\\repos\\PhonePluginsApplication\\EmployeesAddPlugin\\EmployeesAddPlugin.csproj",
+        "packagesPath": "C:\\Users\\FeaFer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FeaFer\\source\\repos\\PhonePluginsApplication\\EmployeesAddPlugin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FeaFer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\FeaFer\\source\\repos\\PhonePluginsApplication\\PhoneApp\\PhoneApp.csproj": {
+                "projectPath": "C:\\Users\\FeaFer\\source\\repos\\PhonePluginsApplication\\PhoneApp\\PhoneApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FeaFer\\source\\repos\\PhonePluginsApplication\\PhoneApp\\PhoneApp.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FeaFer\\source\\repos\\PhonePluginsApplication\\PhoneApp\\PhoneApp.csproj",
+        "projectName": "PhoneApp",
+        "projectPath": "C:\\Users\\FeaFer\\source\\repos\\PhonePluginsApplication\\PhoneApp\\PhoneApp.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

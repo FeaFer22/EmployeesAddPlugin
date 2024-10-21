@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyName>EmployeesAdd.Plugin</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PhoneApp\PhoneApp.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="EmployeesLoaderPlugin">
+      <HintPath>..\..\..\..\Downloads\PhoneApp\EmployeesLoader.Plugin.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\..\Downloads\PhoneApp\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog">
+      <HintPath>..\..\..\..\Downloads\PhoneApp\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="PhoneApp">
+      <HintPath>..\..\..\..\Downloads\PhoneApp\PhoneApp.exe</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
